@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  多语言
+
+  Created by 冉彬 on 2020/12/23.
+  
+*/
+
+"home" = "Home";
+"plan" = "Plan";
+"msg" = "Messag";
+"mine" = "Mine";
+"test_title" = "Test title";
+"切换语言" = "Change language";
+"跳转按钮" = "Push";
+"中文测试文字" = "Chinese test txt";
+"登录" = "Login";
+"手机登录" = "Phone login";
+"邮箱登录" = "E-mail login";
+"输入手机号" = "Please enter phone number";
+
